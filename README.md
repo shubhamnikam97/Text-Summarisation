@@ -20,7 +20,7 @@ Simply paste a URL, provide your Groq API key, and get a concise 300-word summar
 - **Streamlit**
 - **LangChain**
 - **Groq (LLaMA 3.1 8B Instant)**
-- **YouTube & URL Document Loaders**
+- **URL Document Loaders**
 
 ---
 ## 📦 Installation
@@ -61,7 +61,7 @@ streamlit run "filepath\app.py"
 ---
 ## 🧪 How to Use
 - Enter your Groq API Key in the sidebar
-- Paste a website URL or YouTube link
+- Paste a website URL
 - Click "Summarize the Content from Website"
 - Wait for the summary to be generated 🎉
 
