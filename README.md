@@ -4,7 +4,11 @@ A Streamlit-based web application that summarizes content from **websites** usin
 Simply paste a URL, provide your Groq API key, and get a concise 300-word summary.
 
 ---
+## 🌐 Live Demo
+👉 **Try the app here:** 
+https://text-summarisation-kyoz6bpgcxwt8tzbvqup7v.streamlit.app/
 
+---
 ## 🚀 Features
 
 - 📄 Summarize **any public website**
@@ -13,7 +17,6 @@ Simply paste a URL, provide your Groq API key, and get a concise 300-word summar
 - ⚡ Fast and interactive **Streamlit UI**
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Python**
